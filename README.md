@@ -33,6 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
 <div style="position: absolute; top: 55px; left: 41px; width: 91px; height: 83px; background-image: url('getBytesAsync'); background-size: cover;"></div>
 <div style="position: absolute; top: 0px; left: 0px; width: 191px; height: 29px; background-image: url('getBytesAsync'); background-size: cover;"></div>
 <div style="position: absolute; top: 152px; left: 51px; color: #000000;">CELENZA’24</div>
@@ -78,7 +79,7 @@ the event</div>
 <div style="position: absolute; top: 224px; left: 14px; color: #ffffff;">Contact Us
 Saveethaengineeringcollege@gmail.com
 9876543210</div>
-
+```
 
 ## OUTPUT:
 ![Screenshot (50)](https://github.com/nanditha121/Figma/assets/142209508/9addfb99-ac85-438c-8d8f-7a4b98bd5d6c)
